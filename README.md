@@ -1,6 +1,6 @@
-# rolando-porras
-Rolando Porras Mejías, especialista en Derecho Administrativo
-<!DOCTYPE html>
+# Rolando Porras
+Especialista en Derecho Administrativo
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
