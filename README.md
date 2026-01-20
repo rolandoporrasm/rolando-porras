@@ -3,10 +3,6 @@ Especialista en Derecho Administrativo
 
 <html lang="es">
 
-</head>
-    <meta charset="UTF-8">
-    <meta name="google-site-verification" content="yuiI8yyYhVs-jElyFKH">
-</head>
 <body>
 
 <div class="cv">
