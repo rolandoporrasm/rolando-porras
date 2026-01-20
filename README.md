@@ -3,8 +3,6 @@ Especialista en Derecho Administrativo
 
 <html lang="es">
 
-    <meta charset="UTF-8">
-    <title>Currículum - Rolando Porras</title>
 </head>
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="yuiI8yyYhVs-jElyFKH">
