@@ -1,23 +1,17 @@
 # Abogado
 Especialista en Derecho Administrativo
-<body>
-
 <div class="cv">
-
 <h1>Rolando Porras Mejías</h1>
-
 <p>
 📧 rolandoporrasm@gmail.com <br>
 📍 San José, Costa Rica
 </p>
-
 <h2>Perfil profesional</h2>
 <p>
 Abogado especialista en Derecho Administrativo, con 29 años de experiencia profesional.
 Ex juez en materia Contenciosa Administrativa, Civil y Laboral del Poder Judicial.
 Amplios conocimientos en Derecho Público y asesoría legal especializada.
 </p>
-
 <h2>Áreas de experiencia</h2>
 <ul>
     <li>Demandas contra el Estado</li>
@@ -28,8 +22,5 @@ Amplios conocimientos en Derecho Público y asesoría legal especializada.
     <li>Procesos Sucesorios</li>
     <li>Procesos de Riesgo de Trabajo</li>
 </ul>
-
 </div>
 
-</body>
-</html>
