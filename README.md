@@ -1,8 +1,5 @@
 # Abogado
 Especialista en Derecho Administrativo
-
-<html lang="es">
-
 <body>
 
 <div class="cv">
