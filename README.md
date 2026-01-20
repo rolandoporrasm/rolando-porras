@@ -5,35 +5,6 @@ Especialista en Derecho Administrativo
 
     <meta charset="UTF-8">
     <title>Currículum - Rolando Porras</title>
-
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
-            margin: 0;
-            padding: 0;
-        }
-        .cv {
-            max-width: 800px;
-            background: white;
-            margin: 40px auto;
-            padding: 30px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            margin-bottom: 5px;
-        }
-        h2 {
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-        p {
-            line-height: 1.5;
-        }
-        ul {
-            margin-left: 20px;
-        }
-    </style>
 </head>
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="yuiI8yyYhVs-jElyFKH">
